@@ -1,4 +1,4 @@
-package Inventario;
+package inventario;
 
 import utiles.TipoComida;
 

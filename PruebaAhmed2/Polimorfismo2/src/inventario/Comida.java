@@ -1,4 +1,4 @@
-package Inventario;
+package inventario;
 
 import utiles.TipoComida;
 
@@ -32,3 +32,4 @@ public abstract class Comida {
 	}
 
 }
+

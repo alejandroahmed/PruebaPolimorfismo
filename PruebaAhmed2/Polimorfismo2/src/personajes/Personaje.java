@@ -1,9 +1,9 @@
 package personajes;
 
-import Inventario.Comida;
-import Inventario.Fideos;
-import Inventario.Manzana;
-import Inventario.Sushi;
+import inventario.Comida;
+import inventario.Fideos;
+import inventario.Manzana;
+import inventario.Sushi;
 
 public class Personaje {
 	protected Mascota mascota;
